@@ -1,11 +1,11 @@
 {
-    "name": "QR Code Generator",
-    "short_name": "QR Code Generator",
+    "name": "qr_attendance",
+    "short_name": "qr_attendance",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Create your own QR Code",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
