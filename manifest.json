@@ -1,6 +1,6 @@
 {
-    "name": "qr_attendance",
-    "short_name": "qr_attendance",
+    "name": "mall",
+    "short_name": "mall",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
