@@ -94880,7 +94880,7 @@ A.apK.prototype={
 $0(){var s=0,r=A.H(t.H),q=this,p,o,n,m
 var $async$$0=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:m=$.awG
-s=m.length<5&&$.aKc===!1?2:4
+s=m.length<5||$.aKc===!1?2:4
 break
 case 2:m=t.p
 m=new A.a24(B.dX,A.a([A.hD(A.a([A.dc("Please enter correct phone number",null,null,null,A.dx(null,null,B.l,null,null,null,null,null,null,null,null,q.c?20:18,null,null,B.aN,null,null,!0,null,null,null,null,null,null,null,null),null,null),B.dz],m),B.a8,B.ag,B.c6)],m))
