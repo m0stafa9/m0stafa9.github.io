@@ -12,7 +12,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ceb4a36869389d2b39c0d98ae7eb6bce
 "assets/lib/assets/images/success.json": "1030f9666b0a44fa5d90aa6c70326426",
 "assets/lib/assets/images/win.png": "2f8563d6806b2736f7d35c6006e012ac",
 "assets/lib/assets/images/winner.jpg": "8c42f93e66b38678c4898a531cf44498",
-"assets/NOTICES": "46e27e1e06954f64d2e06f65726551e5",
+"assets/NOTICES": "9e30fbb247d2280840acf8ddc2056ec2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "8aaf0b94dc1daebd3e63c5bf28bdba5c",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a5d7457fda15b7622c14f432ba63039a",
@@ -291,9 +291,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "ceb4a36869389d2b39c0d98ae7eb6bce
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cdc02bc5dd9eede897f0229b99516e9a",
-"/": "cdc02bc5dd9eede897f0229b99516e9a",
-"main.dart.js": "abb023607075b0492a00011b007ab29d",
+"index.html": "b5267f8a8eca850d6544872cbb2e4246",
+"/": "b5267f8a8eca850d6544872cbb2e4246",
+"main.dart.js": "0685b658849571307aa8c13157601a40",
 "manifest.json": "fb88996af58dc63e3c8538ce664ad94b",
 "version.json": "76ec439f51631eefe38da5f42d5f32d3"};
 // The application shell files that are downloaded before a service worker can
