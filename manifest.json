@@ -1,6 +1,6 @@
 {
-    "name": "Academe Web QR",
-    "short_name": "ios_qr",
+    "name": "Attendance management system",
+    "short_name": "Academe",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
