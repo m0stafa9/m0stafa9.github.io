@@ -91927,7 +91927,7 @@ avV(){var s=this.c
 s.toString
 this.f=A.TG(B.Gn,new A.ax4(this,A.bW(s,!1,t.C)))},
 J(b0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3=null,a4=t.w,a5=A.aq(b0,a3,a4).w.a.b,a6=A.aq(b0,a3,a4).w.a.a,a7=A.H(b0),a8=A.pB(a3,a3,A.an("QR Code",a3,a3,a3,A.H(b0).p2.d,a3,a3)),a9=$.a2().gaH()
-a4=A.aq(b0,a3,a4).w.a.a>=900?280:a6/(1.6*$.a2().gbW())
+a4=A.aq(b0,a3,a4).w.a.a>=900?280:a6/(1.3*$.a2().gbW())
 s=A.dH(50)
 r=A.H(b0)
 q=A.H(b0).ax.x1
@@ -91972,7 +91972,7 @@ o=a1.c
 B.e.aR(B.e.b_(o,4),2)
 B.e.aR(o,2)
 o=t.p
-return A.mh(a8,a7.go,new A.bG(B.b3,A.e5(A.bs(A.a([A.bM(a3,A.e5(A.bs(A.a([A.iv(a3,a3,a3,n,new A.O(a6/(1.7*$.a2().gbW()),a5/(3.2*$.a2().gaH()))),new A.a7(a3,10*$.a2().gaH(),a3,a3),A.an(A.bW(b0,!1,p).y.b,a3,a3,a3,A.H(b0).p2.e,a3,a3)],o),B.m,B.aJ,B.p),a3,a3),B.r,a3,a3,new A.bt(r.ax.b,a3,a3,s,q,a3,B.I),a3,a5/(2.5*a9),a3,a3,B.b3,a3,a3,a4)],o),B.m,B.aJ,B.p),a3,a3),a3))}}
+return A.mh(a8,a7.go,new A.bG(B.b3,A.e5(A.bs(A.a([A.bM(a3,A.e5(A.bs(A.a([A.iv(a3,a3,a3,n,new A.O(a6/(1.5*$.a2().gbW()),a5/(3.2*$.a2().gaH()))),new A.a7(a3,10*$.a2().gaH(),a3,a3),A.an(A.bW(b0,!1,p).y.b,a3,a3,a3,A.H(b0).p2.e,a3,a3)],o),B.m,B.aJ,B.p),a3,a3),B.r,a3,a3,new A.bt(r.ax.b,a3,a3,s,q,a3,B.I),a3,a5/(2.5*a9),a3,a3,B.b3,a3,a3,a4)],o),B.m,B.aJ,B.p),a3,a3),a3))}}
 A.ax4.prototype={
 $1(a){var s,r=this.a,q=r.c
 q.toString
